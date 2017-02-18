@@ -1,0 +1,21 @@
+{
+  "name": "GULP-SASS-BROWSERSYNC",
+  "description": "A simple workflow using SASS and BROWSERSYNC",
+  "main": "app.js",
+  "authors": [
+    "nmassi <massinicolas@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nmassi/GULP-SASS-BROWSERSYNC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
