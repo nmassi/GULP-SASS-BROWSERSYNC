@@ -1,5 +1,5 @@
 # GULP-SASS-BROWSERSYNC
-Simple workflow (not production ready)
+Simple workflow
 
 ```
 clone
